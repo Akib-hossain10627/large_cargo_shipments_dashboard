@@ -1,4 +1,4 @@
-# large cargo shipments dashboard
+# large cargo shipments Analysis
 ## 🎯 Project Objective
 The main objective of this project is to analyze and visualize global cargo shipment data for grains and oils across multiple years, ports, and countries.
 The dashboard provides actionable insights into cargo tonnage, shipment patterns, charterers, and top importing/exporting countries.
